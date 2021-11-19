@@ -1,1 +1,4 @@
-<img align="left" alt="ByAlperenS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ByAlperenS&show_icons=true&theme=radical&count_private=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlperenS&langs_count=8)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByAlperenS&show_icons=true&theme=buefy)
